@@ -18,7 +18,7 @@ A simple ski jumping game for the GameBoy programmed in C using GBDK.
 * Press START to restart the game
 
 # Compiling the Source
-If you want to compile the source for yourself, all you need are the files with the `.c` extension (in th same directory). The Graphics folder and other files are for use with GBTD / GBMB or for convenience. To build the project, simply run the `make.bat` and the project should build into a `.gb` file, along with a couple other files.
+If you want to compile the source for yourself, all you need are the files with the `.c` extension (in the same directory). The Graphics folder and other files are for use with GBTD / GBMB or for convenience. To build the project, simply run the `make.bat` and the project should build into a `.gb` file, along with a couple other files.
 
 # Thank Yous
 Thank you to [GamingMonsters](https://github.com/gingemonster) and his [YouTube channel](https://www.youtube.com/channel/UCMMhSfBStEti-Lqzs30HYWw); the videos were an excellent introduction to GameBoy programming and helped me tremendously to grasp all the GBDK specific concepts.  
